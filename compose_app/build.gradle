@@ -2,6 +2,10 @@
 buildscript {
     ext {
         compose_version = '1.0.1'
+        accompanist_pager = "0.16.1"
+        lifecycle_compose_version = "1.0.0-alpha07"
+        coil_version = '0.14.0'
+        accompanist_pager = "0.16.1"
     }
     repositories {
 
